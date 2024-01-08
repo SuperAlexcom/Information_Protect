@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ZI_lab3.cpp
+C:\Users\mrcan\source\repos\ZI_lab3\ZI_lab3\ZI_lab3.cpp(3): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+C:\Users\mrcan\source\repos\ZI_lab3\ZI_lab3\ZI_lab3.cpp(3): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+C:\Users\mrcan\source\repos\ZI_lab3\ZI_lab3\ZI_lab3.cpp(8): message : использование предварительно скомпилированного заголовка
+  ZI_lab3.vcxproj -> C:\Users\mrcan\source\repos\ZI_lab3\Debug\ZI_lab3.exe
